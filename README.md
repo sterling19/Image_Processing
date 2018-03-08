@@ -1,2 +1,2 @@
 # Image Processing
-Learning how with Scikit-Image and OpenCV
+Learning Scikit-Image and where it can be applied
