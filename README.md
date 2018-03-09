@@ -1,2 +1,10 @@
 # Image Processing
-Repository for projects related to image processing, image classification, and object detection
+<b>Overview</b>: Repository for projects related to image processing, image classification, and object detection
+
+<b>Current Projects</b>:
+- <a href="https://github.com/sterling19/Image_Processing/blob/master/scikit-image_demo.ipynb"> Scikit-image Demo </a>
+
+<b>Upcoming Projects</b>:
+- Advanced Image Processing w/Scikit-Image
+- Basic CNN's w/Tensorflow & PyTorch
+- Basic Object Detection
