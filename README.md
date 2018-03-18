@@ -3,9 +3,9 @@
 
 <b>Projects</b>:
 - <a href="https://github.com/sterling19/Image_Processing/blob/master/scikit-image_demo.ipynb"> Scikit-image Demo </a>
+- <a href="https://github.com/sterling19/Image_Processing/blob/master/keras_demo.ipynb"> Keras Demo </a>
 
 <b>Upcoming Projects</b>:
-- Overview of Keras ImageDataGenerator
-- Advanced Image Processing w/Scikit-Image
-- Basic CNN's w/Tensorflow & PyTorch
 - Basic Object Detection
+- Advanced CNN's w/PyTorch
+- Case Study: Medical Images
