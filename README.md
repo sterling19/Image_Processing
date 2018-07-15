@@ -6,5 +6,4 @@
 - <a href="https://github.com/sterling19/Image_Processing/blob/master/scikit-image_demo.ipynb"> Scikit-image Demo </a>
 
 <b>Upcoming Projects</b>:
-- Object Detection w/PyTorch and FastAI
-- Case Study: Medical Images
+- PyTorch, fastai, and Transfer Learning (in progress)
